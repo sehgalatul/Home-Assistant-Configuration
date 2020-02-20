@@ -1,0 +1,26 @@
+# Generic ignores
+*.log
+*.db
+*.db-shm
+*.db-wal
+*.pyc
+._*
+__pycache__
+
+# Directory (contents) ignores
+.cloud
+.storage
+custom_components
+deps
+esphome
+node-red
+tensorflow
+tts
+www
+
+# Specific file ignores
+secrets.yaml
+
+# ESPHome ignores
+esphome/secrets.yaml
+esphome/**/
