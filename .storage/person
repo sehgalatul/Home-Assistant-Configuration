@@ -1,0 +1,14 @@
+{
+    "data": {
+        "items": [
+            {
+                "device_trackers": [],
+                "id": "atul",
+                "name": "Atul",
+                "user_id": "3483c8793ab748d2a145fa350ee0514b"
+            }
+        ]
+    },
+    "key": "person",
+    "version": 2
+}

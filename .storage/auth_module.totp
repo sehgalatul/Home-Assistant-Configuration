@@ -1,0 +1,9 @@
+{
+    "data": {
+        "users": {
+            "3483c8793ab748d2a145fa350ee0514b": "3KMJKW4JJLAY7YTK"
+        }
+    },
+    "key": "auth_module.totp",
+    "version": 1
+}

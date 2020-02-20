@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "last_seen": "2020-02-20T22:55:12.004884+00:00",
+            "state": {
+                "attributes": {
+                    "editable": true,
+                    "friendly_name": "Atul",
+                    "id": "atul",
+                    "user_id": "3483c8793ab748d2a145fa350ee0514b"
+                },
+                "context": {
+                    "id": "a8dcafd91f544c3b96fd1539a6070494",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "person.atul",
+                "last_changed": "2020-02-19T23:19:56.055047+00:00",
+                "last_updated": "2020-02-19T23:20:01.631029+00:00",
+                "state": "unknown"
+            }
+        }
+    ],
+    "key": "core.restore_state",
+    "version": 1
+}
